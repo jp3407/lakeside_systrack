@@ -6,6 +6,6 @@ I am pleased to submit this proposal for Systrack (Lakeside) workspace analytics
 ![Content](https://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/1.jpg)
 ![Page2](https://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/2.jpg)
 ![Page3](https://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/3.jpg)
-![Page4](hhttps://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/4_1.jpg)
+![Page4](https://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/4_1.jpg)
 ![Page5](https://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/5.jpg)
 ![Page6](https://raw.githubusercontent.com/jp3407/lakeside_systrack/refs/heads/main/metadata/6.jpg)
